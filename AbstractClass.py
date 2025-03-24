@@ -6,7 +6,7 @@ class Base(ABC):
     @abstractmethod
     def area(self):
         pass
-    # Definiujemy inna metode abstrakcyjna perimeter.
+    # Definiujemy inna metode abstrakcyjna perimeter
     @abstractmethod
     def perimeter(self):
         pass
